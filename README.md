@@ -74,7 +74,7 @@
 
 ### 📜 &nbsp;My Articles
 
-<img src="{https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white}"/>(https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/)
+![GitBook]({https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white})(https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/)
 
 
 
