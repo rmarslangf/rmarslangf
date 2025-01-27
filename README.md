@@ -74,15 +74,9 @@
 
 ### 📜 &nbsp;My Articles
 
-![GitBook]({https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white})(https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/)
+<a href="https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/"> ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white) </a>
 
 
 
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/rmarslangf/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake gif](https://github.com/rmarslangf/rmarslangf/blob/output/github-contribution-grid-snake.gif)
