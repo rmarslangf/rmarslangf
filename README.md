@@ -77,6 +77,3 @@
 <a href="https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/"> ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white) </a>
 
 
-
-![snake animation](https://github.com/<seu rmarslangf>/<seu rmarslangf>/blob/output/github-contribution-grid-snake2.svg)
-
