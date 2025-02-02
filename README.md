@@ -21,7 +21,7 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-  <h3>HyperText Diller/HyperText Languages</h3>
+  <h3>Markup Diller/Markup  Languages</h3>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
