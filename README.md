@@ -10,7 +10,7 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
                                       
 
 <a href=mailto:rmertarslan@outlook.com>![mail.com Badge](https://img.shields.io/badge/mail.com-004788?logo=maildotcom&logoColor=fff&style=for-the-badge) </a>
-<a href="https://www.linkedin.com/in/rmarslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmarslan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rmarslangf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmarslangf/" height="30" width="40" /></a>
 </p>
 
   <h2>Teknik Yetkinlikler / Technical Capabilities</h2>
