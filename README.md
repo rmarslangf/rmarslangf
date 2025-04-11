@@ -1,5 +1,5 @@
-###👋 Merhaba, Profilime Hoşgeldiniz / Hi There, Welcome To My Profile
----
+<h1 align="center">👋 Merhaba, Profilime Hoşgeldiniz / Hi, Welcome To My Profile</h1>
+
 
 ## 🧑‍💻 Hakkımda / About Me
 
@@ -20,7 +20,7 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 
 ---
 
-## 🛠️ Teknik Yetkinlikler / Technical Capabilities
+## 🧠 Teknik Yetkinlikler / Technical Capabilities
 
 ### 👨‍💻 Programlama Dilleri / Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
@@ -52,7 +52,6 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge)
 
 ### 📈 Gözlemlenebilirlik / Observability  
@@ -78,6 +77,13 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
+### 🛠️ IDE'ler / IDEs</h3>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
+![GoLand](https://img.shields.io/badge/GoLand-00ADD8?logo=goland&logoColor=white&style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
+
 ---
 
 ## 📝 Notlar / Notes
@@ -85,5 +91,6 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 <a href="https://app.gitbook.com/o/qyfuIxgypmoDZ5nPnqpM/s/0xrVuj9Ei0lOdAZ0Rhzr/" target="_blank">
   <img src="https://img.shields.io/badge/GitBook-BBDDE5?logo=gitbook&logoColor=000&style=for-the-badge" alt="GitBook">
 </a>
+
 
 ---
