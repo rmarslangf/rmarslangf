@@ -1,5 +1,4 @@
-<h1 align="center">👋 Merhaba, Profilime Hoşgeldiniz / Hi There, Welcome To My Profile</h1>
-
+###👋 Merhaba, Profilime Hoşgeldiniz / Hi There, Welcome To My Profile
 ---
 
 ## 🧑‍💻 Hakkımda / About Me
@@ -13,7 +12,7 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ## 📬 İletişim / Contact
 
 <a href="mailto:rmertarslan@outlook.com">
-  <img src="https://img.shields.io/badge/mail.com-004788?logo=maildotcom&logoColor=fff&style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge" alt="Outlook Email">
 </a>
 <a href="https://www.linkedin.com/in/rmarslangf/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn">
@@ -26,6 +25,7 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ### 👨‍💻 Programlama Dilleri / Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
 
@@ -53,11 +53,16 @@ I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge)
 
 ### 📈 Gözlemlenebilirlik / Observability  
 ![Splunk](https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?logo=kibana&logoColor=white&style=for-the-badge)
+![Jaeger](https://img.shields.io/badge/Jaeger-000000?logo=jaeger&logoColor=white&style=for-the-badge)
+![Kiali](https://img.shields.io/badge/Kiali-003366?logo=kiali&logoColor=white&style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge)
 
 ### 🗄️ Veritabanları / Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
