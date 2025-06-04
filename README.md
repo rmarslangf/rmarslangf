@@ -3,9 +3,13 @@
 
 ## 🧑‍💻 Hakkımda / About Me
 
-Ben Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. “DevOps ve Cloud Engineering” alanında kendimi sürekli geliştiriyor, güçlü bir altyapı kurarak bu alanda kariyer inşa ediyorum. Yeni teknolojilere hızlı uyum sağlıyor, problem çözme becerilerimi sürekli ileri taşıyorum. Burada sizlere yaratıcı ve etkili hazır kaynak projeler sunmayı hedefliyorum.
+ Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim. DevOps, Bulut ve Platform
+ Mühendisliği alanlarına özel bir ilgi duyuyor, bu konularda aktif olarak kendimi geliştiriyorum. Backend, altyapı ve
+ bulut teknolojileri üzerine sağlam bir teknik temele sahibim.
 
-I am a 3rd-year student at Mehmet Akif Ersoy University, majoring in Information Systems Engineering. I am actively developing my skills in **DevOps and Cloud Engineering**, building a solid foundation and shaping my future around this vision. I quickly adapt to new technologies and constantly improve my problem-solving skills. Here, I aim to share creative and effective ready-to-use projects.
+ I am a 4th-year student in Information Systems Engineering at Mehmet Akif Ersoy University. I have a strong
+ interest in DevOps, Cloud, and Platform Engineering, and I am actively working to improve myself in these areas. I
+ possess a solid technical foundation in backend development, infrastructure, and cloud technologies.
 
 ---
 
