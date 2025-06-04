@@ -59,7 +59,6 @@
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge)
 ![Backstage](https://img.shields.io/badge/Backstage-4D4AE8?logo=backstage&logoColor=fff&style=for-the-badge)
 ![OPA](https://img.shields.io/badge/OPA-5A4FCF?logo=openpolicyagent&logoColor=fff&style=for-the-badge)
-![HCP Vault](https://img.shields.io/badge/HCP%20Vault-000000?logo=hashicorp&logoColor=fff&style=for-the-badge)
 
 ### 📈 Gözlemlenebilirlik / Observability  
 ![Splunk](https://img.shields.io/badge/Splunk-000?logo=splunk&logoColor=fff&style=for-the-badge)
