@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Hakkımda / About Me
 
- Mehmet Akif Ersoy Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim. DevOps, Bulut ve Platform
+ Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim. DevOps, Bulut ve Platform
  Mühendisliği alanlarına özel bir ilgi duyuyor, bu konularda aktif olarak kendimi geliştiriyorum. Backend, altyapı ve
  bulut teknolojileri üzerine sağlam bir teknik temele sahibim.
 
